@@ -22,8 +22,8 @@ export const testimonialsData = [
     {
         id: 3,
         name: 'Vrinda Sharma',
-        title: 'Always remember - Your life is bigger than anything that happens in your life :)',
-        text: "Heard of the song 'Smelly Cat!!' ? This website made it viral. Plus portfolio is the only thing that Ursula doesn't have :)",
+        title: ' ',
+        text: "Always remember - Your life is bigger than anything that happens in your life :)",
         image: girl3
     },
     {
