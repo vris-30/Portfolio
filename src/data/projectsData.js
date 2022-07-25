@@ -30,7 +30,7 @@ export const projectsData = [
     {
         id: 3,
         projectName: 'Book Review',
-        projectDesc: '•	Developed a system that provides the reviews of a book.',
+        projectDesc: 'Developed a system that provides the reviews of a book.',
         tags: ['Node.js', 'Express.js', 'MongoDB', 'EJS'],
         code: 'https://github.com/vris-30/Book-Reviews/tree/main',
         demo: 'https://github.com/vris-30/Book-Reviews/tree/main',
@@ -66,7 +66,7 @@ export const projectsData = [
     {
         id: 7,
         projectName: 'Contact Manager',
-        projectDesc: 'Conatct Manager is a contact keeping web application, in which CRUD functionality is provided to make it meaningful and useful.',
+        projectDesc: 'Contact Manager is a contact keeping web application, in which CRUD functionality is provided to make it meaningful and useful.',
         tags: ['React', 'MongoDB', 'Nodejs', 'Expressjs'],
         code: 'https://github.com/vris-30/ContactManager',
         demo: 'https://github.com/vris-30/ContactManager',
@@ -75,7 +75,7 @@ export const projectsData = [
     {
         id: 8,
         projectName: 'to-do-list',
-        projectDesc: 'The carpooling system merges multiple people in a car which leads to meet new people, reduces pollution',
+        projectDesc: 'A simple to-do-app for helping being productive and consistent.',
         tags: ['Flutter', 'React'],
         code: 'https://github.com/vris-30/todo-s',
         demo: 'https://github.com/vris-30/todo-s',
